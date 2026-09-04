@@ -3,6 +3,7 @@ LPW4EXUpdater.app/
 lpw4ex-updater-arm64
 lpw4ex-updater-universal
 LPW4EXUpdater-source.zip
+LPW4EXUpdater-v*-macos-universal.zip*
 *.bin
 *.rar
 work/
